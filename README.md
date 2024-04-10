@@ -79,7 +79,7 @@ Key features:
   - Automatic analysis of incoming DMARC/TLS aggregate reports, DMARC/DKIM/SPF authentication failure reports as well as abuse reports.
 - And more:
   - SASL authentication.
-  - Redis, LDAP, PostgreSQL, MySQL, MSSQL and SQLite support.
+  - Redis, LDAP, PostgreSQL, MySQL and SQLite support.
   - Email aliases, mailing lists, subaddressing and catch-all addresses support.
   - Granular configuration rules.
   - REST API for management.
